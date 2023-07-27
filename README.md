@@ -1,2 +1,2 @@
-# Chatbot
-It’s a computer program that focuses on   generating responses automatically to the questions asked.  
+# Spam Email Classifier
+It’s a process of automatically identifying and filtering out unwanted messages from a user’s imbox, therefore reducing the risk of falling victim to such attacks.  
